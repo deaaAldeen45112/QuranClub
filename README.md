@@ -5,13 +5,14 @@ I used the three-tier layer, which is divided into the first layer is Database ,
 <br>
 I used rest api architectural style.
 # Technology
-I used mysql language to Database ,php to Business Logic and java to Presentation .
+I used mysql language to Database ,php to Business Logic , and java to Presentation .
 <br>
 I used rxjava, retrofit, Dagger libraries .
 # OverView
-Application has three type of use admin, teahcer, student.the admin do operation (create , delete,update,read)  on lesson, teacher and student.
+Application has three type of use admin, teahcer, student.<br>
+the admin do operation (create,delete,update,read)  on lesson, teacher , and student.
 <br>
-the teacher do opreation (create,delete,update,read) on lesson , add The parts that the student has memorized and determine The quran part, the surah, and verse to verse for the student in each lesson.
+the teacher do opreation (create,delete,update,read) on lesson, add The parts that the student has memorized and determine The quran part, the surah, and verse to verse for the student in each lesson.
 <br>
 the student can see his lessons and his level.
 
