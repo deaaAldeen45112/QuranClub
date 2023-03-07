@@ -1,0 +1,56 @@
+<?php
+if ($_SERVER['REQUEST_METHOD'] === 'GET') { 
+  // Headers
+  header('Access-Control-Allow-Origin: *');
+  header('Content-Type: application/json');
+
+  include_once '../../config/Database.php';
+  include_once '../../models/Lesson.php';
+  include_once '../../config/Constants.php';
+  // Instantiate DB & connect
+  $database = new Database();
+  $db = $database->connect();
+
+  // Instantiate category object
+  $lesson = new Lesson($db);
+
+  // Category read query
+  $result = $lesson->read();
+  
+  // Get row count
+  $num = $result->rowCount();
+
+  $posts_arr = array();
+  $posts_arr['data'] = array();
+
+  // Check if any categories
+  if($num > 0) {
+       
+        while($row = $result->fetch(PDO::FETCH_ASSOC)) {
+          extract($row);
+
+          $post_item = array(
+            'lessonId' => $lesson_id,  
+            'name' => $lesson_name,
+            'dateCreated' =>$lesson_date_created,
+            'classId'=>  $class_id
+          );
+
+          array_push($posts_arr['data'], $post_item);
+     
+          // array_push($posts_arr['data'], $post_item);
+        }
+        $posts_arr[Constants::$nameOfstateMessge]=Constants::$successOfstateMessge;
+        
+        // Turn to JSON & outpu    
+        
+        } 
+        else {
+        // No Posts
+        $posts_arr[Constants::$nameOfstateMessge]=Constants::$errorOfstateMessge;
+        }
+        echo json_encode($posts_arr,JSON_UNESCAPED_UNICODE);
+ } else {echo "not found";}
+        
+        
+       ?> 
