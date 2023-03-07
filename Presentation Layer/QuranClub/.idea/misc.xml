@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Pokemon/app/src/main/res/layout/activity_fav.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Pokemon/app/src/main/res/layout/activity_login.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Pokemon/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Pokemon/app/src/main/res/layout/pokemon_item.xml" value="0.1" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.12228260869565218" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/activity_admin.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/activity_fav.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/activity_main.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/activity_main2.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/activity_student.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/activity_teacher.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/layout/pokemon_item.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/NoorProject/Pokemon/app/src/main/res/menu/main_activity2.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_baseline_arrow_drop_down_24.xml" value="0.1785" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_baseline_arrow_drop_up_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_baseline_date_range_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1785" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_key.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable/circle.xml" value="0.1015" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable/ic_QuranClub_logo_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable/ripple_effect.xml" value="0.1785" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout-land/activity_login.xml" value="0.16534391534391535" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout-land/activity_main3.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout-land/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout-land/child_items.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout-sw600dp-land/activity_login.xml" value="0.12550200803212852" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.146484375" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_admin.xml" value="0.1234375" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_fav.xml" value="0.1234375" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_main.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_main3.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_student.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/activity_teacher.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/child_items.xml" value="1.0" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/elements_of_listview_show_student_lesson.xml" value="0.5" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/elements_of_listview_show_student_lesson_test.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_delete_class.xml" value="0.1513467293715263" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_delete_lesson.xml" value="0.1513467293715263" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_delete_student.xml" value="0.1513467293715263" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_delete_teacher.xml" value="0.18" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_gallery.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_home.xml" value="0.1234375" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_insert_class.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_insert_delete_quran_part.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_insert_lesson.xml" value="0.17" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_insert_student.xml" value="0.10182291666666667" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_insert_teacher.xml" value="0.1513467293715263" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_insert_teacher2.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_show_student_lesson.xml" value="0.1278324070115434" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_slideshow.xml" value="0.1234375" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_student_show_level.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_update_class.xml" value="0.1013253527148354" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_update_lesson.xml" value="0.1513467293715263" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_update_student.xml" value="0.1513467293715263" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/fragment_update_teacher.xml" value="0.10182291666666667" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/frgment_student_lesson.xml" value="0.12304526748971194" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/groub_items.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/list_student_lesson.xml" value="0.22" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/list_view_part_number.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/nav_header_main.xml" value="0.18" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/pokemon_item.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/layout/student_quran_part_list.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/menu/main_activity2.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/Pokemon/app/src/main/res/mipmap-anydpi-v26/ic_QuranClub_logo.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/QuranClub/app/src/main/res/layout/elements_of_listview_show_student_lesson.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/QuranClub/app/src/main/res/layout/elements_of_listview_show_student_lesson_teacher.xml" value="0.22" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/QuranClub/app/src/main/res/layout/elements_of_listview_show_student_lesson_test.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/QuranClub/app/src/main/res/layout/frgment_student_lesson.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/QuranClub/app/src/main/res/layout/list_student_lesson.xml" value="0.21" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/QuranClub/app/src/main/res/layout/pokemon_item.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/android/NoorProject/QuranClub/app/src/main/res/layout/student_quran_part_list.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

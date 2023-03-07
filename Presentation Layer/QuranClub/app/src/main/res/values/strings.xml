@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">مكين</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello Deya\'aldeen</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+
+    <!--Strings related to insert teacher-->
+    <string name="prompt_username">full name</string>
+    <string name="prompt_phone">phone</string>
+    <string name="prompt_age">age</string>
+
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+
+
+    <string name="invalid_email">Not a valid email</string>
+    <string name="invalid_password">Password must be > 5 characters</string>
+
+
+    <string name="invalid_full_name">FullName must be > 2 characters</string>
+    <string name="invalid_phone">Phone must be equal 10 numbers</string>
+
+
+    <string name="invalid_age">Age must be > 2 years</string>
+
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- Strings related to Insert -->
+    <string name="Insert">insert</string>
+    <string name="Update">update</string>
+    <string name="Delete">delete</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/linear_layout_list_adapter"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+<!--        <Spinner-->
+<!--            android:id="@+id/spinner_to_verses"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:pointerIcon="no_drop"-->
+<!--            android:layout_height="wrap_content">-->
+<!--        </Spinner>-->
+<!--        <Spinner-->
+<!--            android:id="@+id/spinner_from_verses"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_height="wrap_content">-->
+<!--        </Spinner>-->
+<!--        <Spinner-->
+<!--            android:id="@+id/spinner_surah_name"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_height="wrap_content">-->
+<!--        </Spinner>-->
+<!--        <Spinner-->
+<!--            android:id="@+id/spinner_quran_part_number"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_height="wrap_content">-->
+<!--        </Spinner>-->
+
+        <TextView
+            android:id="@+id/textView_to_verses"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:pointerIcon="no_drop"
+            android:layout_height="wrap_content">
+        </TextView>
+        <TextView
+            android:id="@+id/textView_from_verses"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">
+        </TextView>
+        <TextView
+            android:id="@+id/textView_surah_name"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">
+        </TextView>
+        <TextView
+            android:id="@+id/textView_quran_part_number"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">
+        </TextView>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edit_text_multi_line_notes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine" />
+</LinearLayout>
