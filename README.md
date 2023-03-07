@@ -9,7 +9,7 @@ I used mysql language to Database ,php to Business Logic , and java to Presentat
 <br>
 I used rxjava, retrofit, Dagger libraries .
 # OverView
-Application has three types of user admin, teahcer, student.<br>
+Application has three types of user are admin, teahcer, student.<br>
 the admin do operation (create,delete,update,read)  on lesson, teacher , and student.
 <br>
 the teacher do opreation (create,delete,update,read) on lesson, add The parts that the student has memorized and determine The quran part, the surah, and verse to verse for the student in each lesson.
