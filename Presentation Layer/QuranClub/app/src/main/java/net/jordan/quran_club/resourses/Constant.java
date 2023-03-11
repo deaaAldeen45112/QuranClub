@@ -1,7 +1,8 @@
 package net.jordan.quran_club.resourses;
 
 public class Constant {
-   public static final String url="https://www.quranclubjordan.net/QuranClub/api/";
+   // put your host 
+   public static final String url="https://yourhost/QuranClub/api/";
    public static final String USER_LOGIN="Userlogin";
    public static final String TEACHER="Teacher";
    public static final String SURAH="Surah";
